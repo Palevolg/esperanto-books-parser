@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "«",
+    "html": "&laquo;",
+    "hex": "&#xab;"
+  },
+  {
+    "symbol": "»",
+    "html": "&raquo;",
+    "hex": "&#xbb;"
+  },
+  {
+    "symbol": " ",
+    "html": "&nbsp;",
+    "hex": "&#00a0;"
+  },
+  {
+    "symbol": "—",
+    "html": "&mdash;",
+    "hex": "&#x2014;"
+  },
+  {
+    "symbol": "…",
+    "html": "&hellip;",
+    "hex": "&#x2026;"
+  }
+]
